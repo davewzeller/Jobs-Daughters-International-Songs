@@ -58,3 +58,9 @@ a.songs  { color:darkcyan;
   a:visited.songs{ color: darkgreen;}
   a:hover.songs{ color:darkgreen; font-size:xx-large;}
   a:active.songs{ color:darkcyan;}
+
+  .indeximg {
+    
+      max-width: 75%;
+      max-height: 75%;
+  }
