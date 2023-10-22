@@ -8,7 +8,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#db98ff",endCo
  
  }
 
-div, h3 {   display: flex;
+div, h3, h4 {   display: flex;
   flex-direction: column;
   justify-content: center;
   text-align: center;
@@ -17,6 +17,7 @@ div, h3 {   display: flex;
 
 li{
 list-style-type:none;
+display: hide;
  }
  
  footer{
@@ -64,3 +65,4 @@ a.songs  { color:darkcyan;
       max-width: 75%;
       max-height: 75%;
   }
+
