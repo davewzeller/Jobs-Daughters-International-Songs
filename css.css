@@ -29,9 +29,10 @@ display: hide;
 }
  
  img{
- margin: 7px;
- padding-right: 5vw;
- width:  95vw;
+
+ padding-right: 20vw;
+ padding-left: 20vw;
+ height:  60vw;
   }
   
 .reading_font{ font-weight:300; 
